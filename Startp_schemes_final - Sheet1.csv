@@ -1,0 +1,62 @@
+S.No,"Name Of The Scheme
+","Headed by
+",Sector,Loan Range,Collateral,CityLocation,Source of grants,Lattitude(N),Longitude(E)
+1,Udaan Training Programme For Unemployed Youth Of J&K,National Skill Development Corporation (NSDC),"Education, human resources",NA,yes,Bangalore,central,12.9716,77.5946
+2,SIP-ET, (DeitY),IT Services,1500000,no,Mumbai,state,19.076,72.8777
+3,MGS,(DeitY),IT Services,40000000,no,New Delhi,state,28.7041,77.1025
+4,STP,STPI,IT Services,NA,yes,Mumbai,central,19.076,72.8777
+5,EDF,(DeitY),IT Services,NA,no,Hyderabad,state,17.385,78.4867
+6,M-SIPS,(DeitY),IT Services,NA,no,Bangalore,central,12.9716,77.5946
+7,NewGen IEDC,NewGen IEDC,"Miscellaneous
+",2500000,no,Ahmedabad,state,23.0225,72.5714
+8,VCA,SFAC,Agriculture,500000,no,Gurgaon,central,28.4595,77.0266
+9,Credit Guarantee,CGTMSE,Sector-Agnostic,10000000,yes,Bangalore,state,12.9716,77.5946
+10,Performance & Credit Rating Scheme,NSIC,Sector-agnostic,20000000,yes,Noida,central,28.7041,77.1025
+11,Raw Material Assistance,NSIC,Sector-agnostic,NA,no,Mumbai,central,19.076,72.8777
+12,SFURTI,Khadi and Village Industries Commission,Sector-agnostic,10000000,no,Bangalore,central,12.9716,77.5946
+13,SPRS,NSIC,Sector-agnostic,NA,yes,Gurgaon,central,28.4595,77.0266
+14,Aspire,Ministry of MSME,Agriculture,10000000,yes,Bangalore,central,12.9716,77.5946
+15,Infrastructure Development Scheme,NSIC,Sector-agnostic,NA,yes,Bangalore,central,12.9716,77.5946
+16,MSME,MSME,Sector-agnostic,NA,no,Hyderabad,state,17.385,78.4867
+17,Individual MSEs,MSME,Sector-agnostic,100000,no,Pune,state,18.5204,73.8567
+18,Coir Udyami Yojana,Coir Board,Agriculture,NA,yes,Mumbai,central,19.076,72.8777
+19,International Cooperation (IC) Scheme,MSME,Travel & tourism,200000,no,Bangalore,central,12.9716,77.5946
+20,Bank Credit Facilitation Scheme,NSIC,Sector-agnostic,NA,yes,Bangalore,central,12.9716,77.5946
+21,Atal Incubation Centres (AIC),AIM,"Miscellaneous
+",100000000,yes,Hyderabad,central,17.385,78.4867
+22,Atal Tinkering Laboratories (ATL),AIM,"Miscellaneous
+",1000000,no,Bangalore,central,12.9716,77.5946
+23,Scale-up Support to Establishing Incubation Centres,Niti Ayog,"Miscellaneous
+",50000000,no,Pune,central,18.5204,73.8567
+24,Udaan Training Programme,NSDC,"Education, human resources",NA,no,Bangalore,state,12.9716,77.5946
+25,NCEF,IREDA,"Education
+",NA,yes,Bangalore,state,12.9716,77.5946
+26,Credit Enhancement Guarantee Scheme,IREDA,Energy,NA,yes,Bangalore,central,12.9716,77.5946
+27,Dairy Entrepreneurship Development Scheme,NABARD,Agriculture,NA,no,Pune,central,18.5204,73.8567
+28,4E (End to End Energy Efficiency),SIDBI,Sector-agnostic,15000000,no,Bangalore,state,12.9716,77.5946
+29,Pradhan Mantri Mudra Yojana (PMMY),MUDRA,Sector-agnostic,1000000,yes,Delhi,state,28.7041,77.1025
+30,Stand Up India,SIDBI,Sector-agnostic,10000000,yes,Delhi,central,28.7041,77.1025
+31,Biotechnology Ignition Grant,BIRAC,Healthcare & life sciences,5000000,yes,Bangalore,central,12.9716,77.5946
+32,Rapid Grant For Young Investigator,DBT,Healthcare & life sciences,NA,no,Delhi,central,28.7041,77.1025
+33,SATYAM,DST,Healthcare & life sciences,NA,no,Dehradun,state,30.3165,78.0322
+34,PRISM,CSIR,Sector-agnostic,5000000,yes,Delhi,state,28.7041,77.1025
+35,SPARSH,BIRAC,Healthcare & life sciences,5000000,no,Mumbai,central,19.076,72.8777
+36,Extra Mural Research Funding,SERB,technology hardware,3500000,no,Mumbai,central,19.076,72.8777
+37,IIPME,BIRAC,Healthcare & life sciences,10000000,no,Bangalore,central,12.9716,77.5946
+38,Biotechnology Industry Partnership Programme,BIRAC,Healthcare & life sciences,NA,yes,Hyderabad,central,17.385,78.4867
+39,NSTMIS,DST,"Miscellaneous
+",NA,no,Delhi,central,28.7041,77.1025
+40,TDP,SERB,"Miscellaneous
+",NA,yes,Mumbai,state,19.076,72.8777
+41,High Risk-High Reward Research,SERB,"Miscellaneous
+",NA,no,Hyderabad,central,17.385,78.4867
+42,Industry Relevant R&D,SERB,Sector-agnostic,NA,no,Hyderabad,state,17.385,78.4867
+43,Ayurvedic Biology Program,SERB,nanotechnology,NA,yes,Dehradun,state,30.3165,78.0322
+44,Assistance To Professional Bodies & Seminars/Symposia,SERB,"Miscellaneous
+",NA,yes,Mumbai,central,19.076,72.8777
+45,Growth Capital And Equity Assistance,SIDBI,Sector-agnostic,NA,no,Mumbai,state,19.076,72.8777
+46,Startup Assistance Scheme,SIDBI,Sector-Agnostic,200000000,yes,Delhi,central,28.7041,77.1025
+47,UNION START-UP,Union Bank,Sector-Agnostic,50000000,yes,Delhi,central,28.7041,77.1025
+48,Loan For Rooftop Solar PV Power Projects,IREDA,Renewable energy,NA,no,Delhi,central,28.7041,77.1025
+49,Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE),MSE,Miscellaneous,200000000,no,Delhi,central,28.7041,77.1025
+50,Growth Capacity and Equity Scheme,SIDBI,Sectror-Agnostic,NA,yes,Delhi,central,28.7041,77.1025
